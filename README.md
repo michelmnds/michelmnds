@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hello 👋, people call me Michel and currently I'm:
 
-<!--
-**michelmnds/michelmnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🏫 Studying on Kenzie Academy Brasil to become a Full Stack developer.
 
-Here are some ideas to get you started:
+## Favourite Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## Stats & Most used languages
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelmnds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelmnds&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+</div>
+
+## Social Networks
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/michel-mendes-a878a2243/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo"  />
+  </a>
+</div>
