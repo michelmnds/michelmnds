@@ -1,4 +1,4 @@
-## Hello 👋, people call me Michel and currently I'm:
+## Hello 👋, people call me Mitchel and currently I'm:
 
 - 👨‍🏫 Studying on Kenzie Academy Brasil to become a Full Stack developer.
 
