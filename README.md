@@ -25,9 +25,7 @@
   <a href="https://www.linkedin.com/in/michel-mendes-a878a2243/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo"  />
   </a>
-</div>
-
-<div align="left">
+  
   <a href="https://twitter.com/michelmnds" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="32" alt="linkedin logo"  />
   </a>
