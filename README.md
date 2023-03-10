@@ -2,6 +2,7 @@
 
 - ✏️ Frontend Developer Studying on Kenzie Academy Brasil
 - 📚 Reading Clean Architecture of Uncle Bob
+- ✨ English Speaker
 
 ## Favourite Stack
 
