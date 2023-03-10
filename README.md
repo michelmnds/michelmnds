@@ -1,6 +1,7 @@
 ## Hello 👋, my name is Michel and currently I'm:
 
 - ✏️ Frontend Developer Studying on Kenzie Academy Brasil
+- 📚 Reading Clean Architecture of Uncle Bob
 
 ## Favourite Stack
 
