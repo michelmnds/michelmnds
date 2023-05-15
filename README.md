@@ -1,6 +1,7 @@
 ## Hello 👋, my name is Michel and currently I'm:
 
 - ✏️ Frontend Developer Formed at Kenzie Academy Brasil
+- ✏️ Studying To Become a Fullstack Developer
 - ✨ Portuguese and English Speaker
 
 ## Favourite Stack
