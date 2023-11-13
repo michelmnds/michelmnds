@@ -1,6 +1,6 @@
 ## Hello 👋, my name is Michel and currently I'm:
 
-- ✏️ A Full Stack Developer Formed at Kenzie Academy Brasil
+- ✏️ A Full Stack Developer Formed at Ironhack and Kenzie Academy Brasil
 - ✨ A Portuguese and English Speaker
 
 ## Favourite Stack
