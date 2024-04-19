@@ -1,9 +1,9 @@
-## Hello 👋, my name is Michel and currently I'm:
+## Hello 👋, my name is Michel and currently I'm A:
 
-- 💻 A Software Developer working @Fliz
-- ✏️ A Full Stack Developer Formed at Ironhack and Kenzie Academy Brasil
-- ✨ A Portuguese and English Speaker
-- 🧑 A Portuguese-Brazilian
+- 💻 Software Developer working @Fliz
+- ✏️ Full Stack Developer Formed at Ironhack and Kenzie Academy Brasil
+- ✨ Portuguese and English Speaker
+- 🧑 Portuguese-Brazilian
 
 ## Favourite Stack
 
