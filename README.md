@@ -28,8 +28,8 @@
 ## Stats & Most used languages
 
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmnds&show_icons=true&theme=radical)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelmnds&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelmnds&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelmnds&theme=radical&layout=donut"/>
 </div>
 
 ## Social Networks
