@@ -28,7 +28,7 @@
 ## Stats & Most used languages
 
 <div>
-  <img height="180em" src="https://github-readme-stats-ashy-two-51.vercel.app/api?username=michelmnds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelmnds&show_icons=true&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelmnds&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 </div>
 
