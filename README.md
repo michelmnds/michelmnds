@@ -28,8 +28,8 @@
 ## Stats & Most used languages
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelmnds&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelmnds&theme=radical&layout=donut"/>
+  <img height="180em" src="https://murilo-mendes-github-stats.vercel.app/api?username=michelmnds&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=radical&include_all_commits=true"/>
+  <img height="180em" src="https://murilo-mendes-github-stats.vercel.app/api/top-langs?username=michelmnds&theme=radical&layout=donut"/>
 </div>
 
 ## Social Networks
