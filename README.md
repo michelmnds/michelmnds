@@ -1,6 +1,6 @@
 ## Hello 👋, my name is Michel and currently I'm a:
 
-- 💻 Software Developer working @FLIZpay
+- 💻 Founding Software Engineer working @FLIZpay
 - ✏️ Full Stack Developer Formed at Ironhack and Kenzie Academy Brasil
 - ✨ Portuguese and English Speaker
 - 🧑 Portuguese-Brazilian
